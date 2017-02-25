@@ -1,2 +1,2 @@
-# Azure
-Azure Templates / ARM / DSC / Powershell / Tests
+# Azure IaC
+ARM Templates/ Powershell/ JSON/ DSC/
